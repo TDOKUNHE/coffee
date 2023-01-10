@@ -1,0 +1,17 @@
+h1{
+  text-align: center;
+  background-color: rosybrown;
+  border-style: solid;
+}
+.coffee {
+  width: 300px;
+  
+}
+table , th ,td {
+  border: 2px solid;
+  width: 50%;
+  border-collapse: collapse;
+}
+tr.hover .active{
+  background-color: gray;
+}
